@@ -1,0 +1,9 @@
+{
+  "appId": "com.editor.bridge",
+  "appName": "Bridge IDE",
+  "webDir": "www",
+  "server": {
+    "url": "https://editor.bridge-core.app/",
+    "cleartext": true
+  }
+}
